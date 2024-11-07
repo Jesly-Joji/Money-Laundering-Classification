@@ -7,4 +7,6 @@ Used Undersampling technique as the dataset is huge<br>
 BEFORE Undersampling<br>
 
 
-![download](https://github.com/user-attachments/assets/abeb6c6d-639e-4fe2-ba74-5cbf429d615e)
+![download](https://github.com/user-attachments/assets/abeb6c6d-639e-4fe2-ba74-5cbf429d615e)  <br>
+
+F1-Score 10%
