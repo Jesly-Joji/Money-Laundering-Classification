@@ -14,8 +14,8 @@ Used Undersampling technique as the dataset is huge<br>
 F1-Score 10%
 
 <h2>AFTER Undersampling </h2><br>
-![download](https://github.com/user-attachments/assets/6a3ac762-d7df-4e66-9398-a1d5e343daac)
 
+![download](https://github.com/user-attachments/assets/6a3ac762-d7df-4e66-9398-a1d5e343daac)
 ![download](https://github.com/user-attachments/assets/1e3cf446-eb5c-4030-95ce-54e40070b265) <br>
 F1-Score- 89%
 
