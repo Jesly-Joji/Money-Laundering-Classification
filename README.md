@@ -4,13 +4,14 @@ EDA https://www.kaggle.com/code/jeslyjoji/eda-money-laundering-check-on-ibm-tran
 CODE<br>
 The Dataset is not balanced hence needs to be handled.
 Used Undersampling technique as the dataset is huge<br>
-<h2>BEFORE Undersampling </h2><br>
 
+
+<h2>BEFORE Undersampling</h2>
 <div style="display: flex; justify-content: space-around;">
-  
-![download](https://github.com/user-attachments/assets/802aea5a-9a3f-4cec-8a10-f4f29c225e84)
-![download](https://github.com/user-attachments/assets/abeb6c6d-639e-4fe2-ba74-5cbf429d615e)  
+    <img src="https://github.com/user-attachments/assets/802aea5a-9a3f-4cec-8a10-f4f29c225e84" alt="Image 1" style="width: 45%; height: auto;">
+    <img src="https://github.com/user-attachments/assets/abeb6c6d-639e-4fe2-ba74-5cbf429d615e" alt="Image 2" style="width: 45%; height: auto;">
 </div>
+
 
 F1-Score 10%
 
