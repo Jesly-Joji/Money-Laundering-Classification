@@ -9,7 +9,6 @@ Used Undersampling technique as the dataset is huge<br>
 <div style="display: flex; justify-content: space-around;">
   
 ![download](https://github.com/user-attachments/assets/802aea5a-9a3f-4cec-8a10-f4f29c225e84)
-  
 ![download](https://github.com/user-attachments/assets/abeb6c6d-639e-4fe2-ba74-5cbf429d615e)  
 </div>
 
