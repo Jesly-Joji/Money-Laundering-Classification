@@ -1,6 +1,6 @@
 # Money-Laundering-Classification
 DATASET:<br>
-EDA<br> https://www.kaggle.com/code/jeslyjoji/eda-money-laundering-check-on-ibm-transactions
+EDA https://www.kaggle.com/code/jeslyjoji/eda-money-laundering-check-on-ibm-transactions <br>
 CODE<br>
 The Dataset is not balanced hence needs to be handled.
 Used Undersampling technique as the dataset is huge<br>
