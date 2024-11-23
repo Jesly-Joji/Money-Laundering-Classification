@@ -1,7 +1,7 @@
 # Money-Laundering-Classification
 DATASET:<br>
 EDA https://www.kaggle.com/code/jeslyjoji/eda-money-laundering-check-on-ibm-transactions <br>
-CODE<br>
+CODE https://www.kaggle.com/code/jeslyjoji/dealing-with-imbalance-data-money-laundering <br>
 
 Models trained on imbalanced datasets tend to focus on predicting the majority class well, often neglecting the minority class. It becomes biased
 The Dataset is not balanced hence needs to be handled.
